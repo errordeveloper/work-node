@@ -1,0 +1,1 @@
+var npm = require('npm');
