@@ -34,3 +34,18 @@
 [submodule "node_modules/npm"]
 	path = node_modules/npm
 	url = git://github.com/isaacs/npm.git
+[submodule "node_modules/lru-cache"]
+	path = node_modules/lru-cache
+	url = https://github.com/isaacs/node-lru-cache.git
+[submodule "node_modules/serialport"]
+	path = node_modules/serialport
+	url = https://github.com/voodootikigod/node-serialport.git
+[submodule "node_modules/socket.io"]
+	path = node_modules/socket.io
+	url = https://github.com/LearnBoost/socket.io.git
+[submodule "node_modules/stylus"]
+	path = node_modules/stylus
+	url = https://github.com/LearnBoost/stylus.git
+[submodule "node_modules/optimist"]
+	path = node_modules/optimist
+	url = https://github.com/substack/node-optimist.git
