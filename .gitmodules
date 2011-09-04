@@ -52,3 +52,9 @@
 [submodule "node_modules/wordwrap"]
 	path = node_modules/wordwrap
 	url = https://github.com/substack/node-wordwrap.git
+[submodule "node_modules/zeromq"]
+	path = node_modules/zeromq
+	url = https://github.com/JustinTulloss/zeromq.node.git
+[submodule "node_modules/zmq"]
+	path = node_modules/zmq
+	url = https://github.com/JustinTulloss/zeromq.node.git
