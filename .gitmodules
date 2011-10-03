@@ -58,3 +58,39 @@
 [submodule "node_modules/zmq"]
 	path = node_modules/zmq
 	url = https://github.com/JustinTulloss/zeromq.node.git
+[submodule "node_modules/express"]
+	path = node_modules/express
+	url = https://github.com/visionmedia/express.git
+[submodule "import/processing"]
+	path = import/processing
+	url = git://github.com/jeresig/processing-js.git
+[submodule "node_modules/now"]
+	path = node_modules/now
+	url = https://github.com/Flotype/now.git
+[submodule "node_modules/socket.io-client"]
+	path = node_modules/socket.io-client
+	url = https://github.com/LearnBoost/socket.io-client.git
+[submodule "node_modules/uglify-js"]
+	path = node_modules/uglify-js
+	url = https://github.com/mishoo/UglifyJS.git
+[submodule "node_modules/node-proxy"]
+	path = node_modules/node-proxy
+	url = git://github.com/samshull/node-proxy.git
+[submodule "node_modules/jsdom"]
+	path = node_modules/jsdom
+	url = git://github.com/tmpvar/jsdom.git
+[submodule "node_modules/request"]
+	path = node_modules/request
+	url = git://github.com/mikeal/request.git
+[submodule "node_modules/cssom"]
+	path = node_modules/cssom
+	url = https://github.com/NV/CSSOM.git
+[submodule "node_modules/contextify"]
+	path = node_modules/contextify
+	url = https://github.com/brianmcd/contextify.git
+[submodule "node_modules/htmlparser"]
+	path = node_modules/htmlparser
+	url = https://github.com/tautologistics/node-htmlparser.git
+[submodule "import/libcoap"]
+	path = import/libcoap
+	url = git://libcoap.git.sourceforge.net/gitroot/libcoap/libcoap
