@@ -100,3 +100,9 @@
 [submodule "import/coap-misc/copper"]
 	path = import/coap-misc/copper
 	url = git://github.com/mkovatsc/Copper.git
+[submodule "projects/processing-ws"]
+	path = projects/processing-ws
+	url = git@github.com:/errordeveloper/processing-node-ws.git
+[submodule "node_modules/connect"]
+	path = node_modules/connect
+	url = git://github.com/senchalabs/connect.git
