@@ -94,3 +94,9 @@
 [submodule "import/libcoap"]
 	path = import/libcoap
 	url = git://libcoap.git.sourceforge.net/gitroot/libcoap/libcoap
+[submodule "import/coap-misc/python-coap"]
+	path = import/coap-misc/python-coap
+	url = git://github.com/okoye/COAP.git
+[submodule "import/coap-misc/copper"]
+	path = import/coap-misc/copper
+	url = git://github.com/mkovatsc/Copper.git
