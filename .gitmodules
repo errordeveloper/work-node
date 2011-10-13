@@ -127,3 +127,24 @@
 [submodule "node_modules/v8-profiler"]
 	path = node_modules/v8-profiler
 	url = git://github.com/dannycoates/v8-profiler.git
+[submodule "import/node"]
+	path = import/node
+	url = git@github.com:/joyent/node.git
+[submodule "import/livestreaming-js"]
+	path = import/livestreaming-js
+	url = git://github.com/mjrusso/livestreaming-js.git
+[submodule "node_modules/sockjs"]
+	path = node_modules/sockjs
+	url = git://github.com/sockjs/sockjs-node.git
+[submodule "node_modules/coffee-script"]
+	path = node_modules/coffee-script
+	url = git://github.com/jashkenas/coffee-script.git
+[submodule "node_modules/node-static"]
+	path = node_modules/node-static
+	url = git://github.com/cloudhead/node-static.git
+[submodule "import/sockjs-client"]
+	path = import/sockjs-client
+	url = git://github.com/sockjs/sockjs-client.git
+[submodule "node_modules/optparse"]
+	path = node_modules/optparse
+	url = git://github.com/jfd/optparse-js.git
