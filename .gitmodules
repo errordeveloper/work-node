@@ -148,3 +148,6 @@
 [submodule "node_modules/optparse"]
 	path = node_modules/optparse
 	url = git://github.com/jfd/optparse-js.git
+[submodule "node_modules/handlebars"]
+	path = node_modules/handlebars
+	url = https://github.com/kpdecker/handlebars.js.git
